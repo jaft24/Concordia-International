@@ -10,11 +10,11 @@ Here are a Few Demos of the Website:
 
 ### Mobile View
 
-![Mobile View](public/demo/mobile_view_header.png)
+![Mobile View](public/demo/mobile_view_header.jpg)
 
 ### Mobile Footer View
 
-![Mobile Footer View](public/demo/mobile_view_footer.png)
+![Mobile Footer View](public/demo/mobile_view_footer.jpg)
 
 ## Getting Started on Contributing to Code
 
