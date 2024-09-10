@@ -1,6 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## International Minnesota Website Repo
 
-## Getting Started
+We are Concordia International. We aim to enhance the academic success and sense of belonging for international students in Concordia College by creating a comprehensive support system through this website archive and ultimately foster an inclusive and empowering environment.
+
+Here are a Few Demos of the Website:
+
+### PC View
+
+![PC View](public/demo/pc_view_ss.png)
+
+### Mobile View
+
+![Mobile View](public/demo/mobile_view_header.png)
+
+### Mobile Footer View
+
+![Mobile Footer View](public/demo/mobile_view_footer.png)
+
+## Getting Started on Contributing to Code
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
