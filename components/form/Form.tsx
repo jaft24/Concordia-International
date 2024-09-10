@@ -91,7 +91,6 @@ export default function SignUp({ onSubmit }: SignUpProps) {
                   fullWidth
                   id="firstName"
                   label="First Name"
-                  autoFocus
                   value={formData.firstName}
                   onChange={handleChange}
                 />
