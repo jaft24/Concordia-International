@@ -113,6 +113,9 @@ const showMoreData: Record<string, LinkData[]> = {
   ],
   'Your Finances on an F1': [
     { title: 'Sprintax Money Managment for International Students', url: 'https://blog.sprintax.com/an-international-students-guide-to-managing-finances/' },
+    { title: 'Bank of America: Banking as an International Student', url: 'https://about.bankofamerica.com/en/international-student-bank-account'},
+    { title: 'Investopedia: Credit Score Explained', url: 'https://www.investopedia.com/terms/c/credit_score.asp'},
+    { title: 'Chime Secured Credit Builder', url: 'https://www.chime.com/apply-credit/?ad=nwcb&value_prop=cb-dd&subid1=9208a9eec0594b5b8428c8beadf943f5'},
     { title: 'IRS FICA Taxes Exemption During Emplyment', url: 'https://www.irs.gov/individuals/international-taxpayers/foreign-student-liability-for-social-security-and-medicare-taxes' },
     { title: 'Financial Planning on F1 Visa', url: 'https://www.snowballwealth.com/blog/navigating-financial-planning-for-international-students-on-f1-visas'}
   ],
